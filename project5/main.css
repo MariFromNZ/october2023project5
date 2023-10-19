@@ -19,10 +19,43 @@ section .btn.btn2 {
     color: blueviolet;
 }
 
+/* 0 0 1 */
+h3 {
+    color: brown;
+}
+
+/* 0 1 1 */
+h3.heading{
+    color:aquamarine
+}
+
+/* 0 1 2 */ 
+section.content p{
+    color: beige;
+}
+
+ /* 0 2 2 */
+section.content p.text{
+    color: gray;
+}
 
 
+button.btn {
+    font-size: 24px;
+    font-weight: 800;
 
+}
+.btn-danger {
+    background-color: darkred;
+}
 
+.btn-info {
+    background-color: dodgerblue;
+}
+
+.btn-success {
+    background-color: orange;
+}
 
 
 
