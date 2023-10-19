@@ -1,0 +1,63 @@
+/* p {
+    color: rgb(121, 104, 136);
+
+}
+
+.first-paragraph {
+    background-color: rgb(219, 219, 231);
+
+}
+.anything {
+    background-color: black;
+}
+#another-block {
+    color: brown;
+    margin-left: 10%;
+}
+
+#link {
+    color: rgb(73, 110, 17);
+    padding-left: 10%;
+}
+
+.red-text-bg{
+    background-color: rgb(124, 7, 7);
+}
+
+.text-block{
+    background-color: rgb(107, 94, 77);
+
+}
+.heading-block{
+    background-color: aquamarine;
+} */
+
+/* img {
+    width: autos;
+    min-width: 50pt;
+} */
+
+h1 {
+    background-color: rgb(88, 182, 182);
+}
+
+
+h1 {
+    background-color: rgb(164, 255, 255)!important;
+}
+
+.red {
+    color: brown;
+}
+#green{
+    color:greenyellow;
+}
+
+
+
+
+
+
+
+
+
